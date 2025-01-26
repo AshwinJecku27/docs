@@ -59,6 +59,13 @@
       ]
     },
     {
+      "group": "Test Group",
+      "pages": [
+        "testpage",
+        "introduction"
+      ]
+    },
+    {
       "group": "Essentials",
       "pages": [
         "essentials/markdown",
