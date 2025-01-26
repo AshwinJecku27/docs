@@ -50,12 +50,9 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Sample Section",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development",
-        "testpage"
+        "SamplePage"
       ]
     }
   ],
