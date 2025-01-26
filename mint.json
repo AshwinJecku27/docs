@@ -62,7 +62,7 @@
       "group": "Test Group",
       "pages": [
         "testpage",
-        "introduction"
+        "testfolder/pageunderfolder"
       ]
     },
     {
